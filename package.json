@@ -9,7 +9,7 @@
   "scripts": {
     "build": "lerna run build",
     "version": "lerna version --conventional-commits --yes",
-    "publish": "npm run build && npm run version && lerna publish --yes",
+    "publish": "npm run build && npm run version && lerna publish --yes --access public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
