@@ -1,7 +1,7 @@
 {
   "name": "@mvs/utils",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "main": "dist/utils.js",
   "exports": {
@@ -13,7 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mvs/math": "^0.0.0"
+    "@mvs/math": "^0.1.0"
   },
   "devDependencies": {
     "vite": "^5.4.8"
