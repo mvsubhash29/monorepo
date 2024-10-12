@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/mvsubhash29/monorepo/compare/v0.1.2...v0.2.0) (2024-10-12)
+
+
+### Features
+
+* enable public publishing by changing private to false ([f52f2d5](https://github.com/mvsubhash29/monorepo/commit/f52f2d54cfaa8d17bf8f1a202ea1ec3a81806923))
+
+
+
+
+
 # 0.1.0 (2024-10-12)
 
 
