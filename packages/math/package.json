@@ -3,6 +3,10 @@
   "version": "0.2.0",
   "type": "module",
   "main": "dist/math.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvsubhash29/monorepo.git "
+  },
   "exports": {
     ".": "./dist/math.js"
   },
