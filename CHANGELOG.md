@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/mvsubhash29/monorepo/compare/v0.1.1...v0.1.2) (2024-10-12)
+
+
+### Bug Fixes
+
+* **utils:** typo mistake ([5d1f4de](https://github.com/mvsubhash29/monorepo/commit/5d1f4de4f7c089725a98797fe1f256dfa120d807))
+
+
+
+
+
 ## [0.1.1](https://github.com/mvsubhash29/monorepo/compare/v0.1.0...v0.1.1) (2024-10-12)
 
 
