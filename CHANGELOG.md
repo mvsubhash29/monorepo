@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/mvsubhash29/monorepo/compare/v0.4.2...v0.5.0) (2024-10-13)
+
+
+### Features
+
+* **utils:** repository added ([b9272c1](https://github.com/mvsubhash29/monorepo/commit/b9272c12bcd83826fb7e0eddc5c60cd3cc315a6e))
+
+
+
+
+
 ## [0.4.2](https://github.com/mvsubhash29/monorepo/compare/v0.4.1...v0.4.2) (2024-10-13)
 
 **Note:** Version bump only for package monorepo
