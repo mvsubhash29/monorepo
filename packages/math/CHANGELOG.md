@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/mvsubhash29/monorepo/compare/v0.6.2...v0.7.0) (2024-10-13)
+
+
+### Features
+
+* **math:** export added for multiply ([6e3d928](https://github.com/mvsubhash29/monorepo/commit/6e3d92881f2c0cac17b5ada89d59676416d8312a))
+* **mvsmath:** comma changed ([cc4231a](https://github.com/mvsubhash29/monorepo/commit/cc4231a39bf9356246ce061c055d84d0e1f54781))
+
+
+
+
+
 # [0.6.0](https://github.com/mvsubhash29/monorepo/compare/v0.5.1...v0.6.0) (2024-10-13)
 
 
