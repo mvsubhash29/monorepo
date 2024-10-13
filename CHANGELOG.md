@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mvsubhash29/monorepo/compare/v0.2.0...v0.3.0) (2024-10-13)
+
+
+### Bug Fixes
+
+* **math:** Added keywords in package.json ([58862db](https://github.com/mvsubhash29/monorepo/commit/58862db92038447296af7968494090e3645fbb62))
+
+
+### Features
+
+* repository added in package.json ([7b2e2be](https://github.com/mvsubhash29/monorepo/commit/7b2e2be1bc1fbf07cb10b282596db51f88fc70e1))
+
+
+
+
+
 # [0.2.0](https://github.com/mvsubhash29/monorepo/compare/v0.1.2...v0.2.0) (2024-10-12)
 
 
