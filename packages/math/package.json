@@ -4,6 +4,10 @@
   "private": false,
   "type": "module",
   "main": "dist/math.js",
+  "files": [
+    "dist/",
+    "CHANGELOG.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mvsubhash29/monorepo.git"
