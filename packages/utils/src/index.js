@@ -1,3 +1,3 @@
 import {add} from '@mvs/math';
 // comment
-console.log(add(2, 3));
+console.log(add(2, 3))
