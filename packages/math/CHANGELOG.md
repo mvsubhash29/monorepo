@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/mvsubhash29/monorepo/compare/v0.3.0...v0.4.0) (2024-10-13)
+
+
+### Features
+
+* package privacy changes ([eaa409c](https://github.com/mvsubhash29/monorepo/commit/eaa409cf39f935e17e8c4b4bb4cb67f745afb634))
+
+
+
+
+
 # [0.3.0](https://github.com/mvsubhash29/monorepo/compare/v0.2.0...v0.3.0) (2024-10-13)
 
 
