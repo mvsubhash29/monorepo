@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/mvsubhash29/monorepo/compare/v0.5.1...v0.6.0) (2024-10-13)
+
+
+### Features
+
+* **math:** Added divide file ([67cdffe](https://github.com/mvsubhash29/monorepo/commit/67cdffe1db1d87ca54e998bd806b58f37d447e7e))
+
+
+
+
+
 # [0.5.0](https://github.com/mvsubhash29/monorepo/compare/v0.4.2...v0.5.0) (2024-10-13)
 
 **Note:** Version bump only for package mvsmath
