@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.8.1](https://github.com/mvsubhash29/monorepo/compare/v0.8.0...v0.8.1) (2024-10-13)
+
+
+### Bug Fixes
+
+* **mvsmath:** comma removal ([07f3a50](https://github.com/mvsubhash29/monorepo/commit/07f3a50df4326c6828bce21e5b3ed6b8fffdcda8))
+
+
+
+
+
 # [0.8.0](https://github.com/mvsubhash29/monorepo/compare/v0.7.0...v0.8.0) (2024-10-13)
 
 
