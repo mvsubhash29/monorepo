@@ -7,6 +7,10 @@
   "exports": {
     ".": "./dist/utils.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvsubhash29/monorepo.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
