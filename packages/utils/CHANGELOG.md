@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.9.2](https://github.com/mvsubhash29/monorepo/compare/mvsutils1@0.9.1...mvsutils1@0.9.2) (2024-10-13)
+
+
+### Bug Fixes
+
+* **mvsutils1:** removed ([f91151b](https://github.com/mvsubhash29/monorepo/commit/f91151b6e73cdeb1308eedb46d82757c5c87ea7b))
+
+
+
+
+
 ## [0.9.1](https://github.com/mvsubhash29/monorepo/compare/mvsutils1@0.9.0...mvsutils1@0.9.1) (2024-10-13)
 
 
