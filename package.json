@@ -4,6 +4,9 @@
   "description": "Monorepo description",
   "private": false,
   "main": "index.js",
+  "keywords": [
+    "monorepo"
+  ],
   "workspaces": [
     "packages/*"
   ],
