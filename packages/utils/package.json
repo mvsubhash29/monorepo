@@ -1,5 +1,5 @@
 {
-  "name": "@mvs/utils",
+  "name": "mvsutils",
   "private": false,
   "version": "0.4.1",
   "type": "module",
@@ -13,7 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mvs/math": "^0.4.1"
+    "mvsmath": "^0.4.1"
   },
   "devDependencies": {
     "vite": "^5.4.8"
