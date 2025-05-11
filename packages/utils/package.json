@@ -1,7 +1,7 @@
 {
   "name": "mvsutils1",
   "private": false,
-  "version": "0.9.7",
+  "version": "0.9.8",
   "type": "module",
   "main": "dist/utils.js",
   "exports": {
@@ -17,7 +17,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mvsmath": "^0.10.0"
+    "mvsmath": "^0.10.1"
   },
   "devDependencies": {
     "vite": "^5.4.8"

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.10.1](https://github.com/mvsubhash29/monorepo/compare/mvsmath@0.10.0...mvsmath@0.10.1) (2025-05-11)
+
+**Note:** Version bump only for package mvsmath
+
+
+
+
+
 # [0.10.0](https://github.com/mvsubhash29/monorepo/compare/mvsmath@0.9.1...mvsmath@0.10.0) (2025-05-11)
 
 
